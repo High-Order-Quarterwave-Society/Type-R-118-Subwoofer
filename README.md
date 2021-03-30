@@ -14,8 +14,8 @@ Other designs using the Paraflex principles where made for midrange and infrason
 
 *The Type-R-121 design.*
 *Images provided by Patrick Sander)*
-![Original Type Type-R-121 design](https://github.com/High-Order-Quarterwave-Society/Type-R-121-subwoofer/blob/main/Design/Paraflex-type-R-18s-21ntlw5000.png)
-![Original Type Type-R-121 design](https://github.com/High-Order-Quarterwave-Society/Type-R-121-subwoofer/blob/main/Design/type-r-dimensions.png)
+![Original Type Type-R-118 design](https://github.com/High-Order-Quarterwave-Society/Type-R-118-Subwoofer/blob/main/Design/Type-R-118-design-3d-002.jpg)
+![Original Type Type-R-118 design](https://github.com/High-Order-Quarterwave-Society/Type-R-118-Subwoofer/blob/main/Design/Type-R-118-design-3d-render-007.jpg)
 
  #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
 Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer and many more.
