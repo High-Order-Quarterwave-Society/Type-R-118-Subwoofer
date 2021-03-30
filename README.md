@@ -13,7 +13,7 @@ Other designs using the Paraflex principles where made for midrange and infrason
 
 
 *The Type-R-121 design.*
-*Images provided by Patrick Sander)*
+*Images provided by Patrick Sander*
 ![Original Type Type-R-118 design](https://github.com/High-Order-Quarterwave-Society/Type-R-118-Subwoofer/blob/main/Design/Type-R-118-design-3d-002.jpg)
 ![Original Type Type-R-118 design](https://github.com/High-Order-Quarterwave-Society/Type-R-118-Subwoofer/blob/main/Design/Type-R-118-design-3d-render-007.jpg)
 
